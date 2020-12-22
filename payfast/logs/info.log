@@ -1,0 +1,6 @@
+{"message":"consultando pagamento 42","level":"info","service":"user-service"}
+{"message":"consultando pagamento 42","level":"info","service":"user-service"}
+{"message":"::1 - - [22/Dec/2020:22:28:52 +0000] \"GET /pagamentos/pagamento/42 HTTP/1.1\" 200 151\n","level":"info","service":"user-service"}
+{"message":"::1 - - [22/Dec/2020:23:22:01 +0000] \"POST /pagamentos/pagamento HTTP/1.1\" 201 371\n","level":"info","service":"user-service"}
+{"message":"consultando pagamento 42","level":"info","service":"user-service"}
+{"message":"::1 - - [22/Dec/2020:23:22:18 +0000] \"GET /pagamentos/pagamento/42 HTTP/1.1\" 200 151\n","level":"info","service":"user-service"}
